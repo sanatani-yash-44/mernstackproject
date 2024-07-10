@@ -1,0 +1,19 @@
+{
+  "name": "mernproject2024",
+  "version": "1.0.0",
+  "description": "this is my first react js project in mern",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i , npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanatani-yash-44/MernProject2024.git"
+  },
+  "author": "yesh saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanatani-yash-44/MernProject2024/issues"
+  },
+  "homepage": "https://github.com/sanatani-yash-44/MernProject2024#readme"
+}

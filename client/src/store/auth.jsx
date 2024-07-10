@@ -1,6 +1,8 @@
 import React, { createContext, useState, useEffect } from "react";
 import loginUser from "../services/api";
 
+// testing 
+
 // Create AuthContext
 export const AuthContext = createContext();
 
